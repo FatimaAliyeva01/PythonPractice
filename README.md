@@ -1,2 +1,2 @@
 # PythonPractice
-# PythonPractice
+### Tapsiriq yerine yetirdi
